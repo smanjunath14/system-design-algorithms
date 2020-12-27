@@ -1,4 +1,5 @@
 # System design algorithms
+
 #### Algorithm you should know before system design. The related resources should:
 
 1. Can answer a system design question. For instance, [Building a complete Tweet index](https://blog.twitter.com/engineering/en_us/a/2014/building-a-complete-tweet-index.html) can answer "How to implement Twitter search" or "How to implement hashtag in Twitter".
@@ -81,3 +82,7 @@ Trie is an efficient information reTrieval data structure. Using Trie, search co
 - [Spell Checkers](https://stackoverflow.com/questions/21366631/how-do-i-use-a-trie-for-spell-checking)
 - [prefix matching words (IP Addresses, Phone Numbers)](https://www.geeksforgeeks.org/longest-common-prefix-using-trie/)
 - [Auto-complete feature using Trie](https://www.geeksforgeeks.org/auto-complete-feature-using-trie/)
+
+### Additional Refrences
+- [System Design Algorithm and Interview Cheat Sheet] https://www.naniz.co/posts/2020/12/system-design-algorithm-and-interview-cheat-sheet/
+
